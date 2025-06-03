@@ -2,7 +2,7 @@
 
 ### Workflows
 
-1. Configyaml
+1. Config.yaml
 2. Params.yaml
 3. Config entity
 4. Configuration Manager
